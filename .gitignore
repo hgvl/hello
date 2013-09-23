@@ -1,1 +1,5 @@
 hi,this is my 1st work.
+<?php
+require("http://www.baidu.com/index.php");
+echo "Hello World!";
+?>
